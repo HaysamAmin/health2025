@@ -22,7 +22,7 @@ __pycache__/
 *.log
 *.tmp
 *.swp
-*.txt
+
 
 # Environment files (secrets, configs)
 .env
