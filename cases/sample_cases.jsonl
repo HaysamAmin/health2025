@@ -1,0 +1,1 @@
+{"age":21,"sex":"M","initial_evidence":"E_91","evidences":["E_91","E_53","E_55_@_V_167","E_56_@_5"],"pathology":"Influenza (flu)","differential":[{"disease":"Influenza (flu)","prob":0.55},{"disease":"Common cold","prob":0.25},{"disease":"Bronchitis","prob":0.15},{"disease":"Sinusitis","prob":0.05}]}
