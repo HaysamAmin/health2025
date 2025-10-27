@@ -1,0 +1,37 @@
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# Node.js dependencies
+node_modules/
+
+# Python virtual environments
+venv/
+__pycache__/
+*.py[cod]
+.venv/
+
+# Compiled code
+*.class
+*.o
+*.exe
+*.dll
+*.so
+
+# Logs and temporary files
+*.log
+*.tmp
+*.swp
+*.txt
+
+# Environment files (secrets, configs)
+.env
+
+# IDE / editor folders
+.vscode/
+.idea/
+
+# Build and distribution folders
+dist/
+build/
+data/
