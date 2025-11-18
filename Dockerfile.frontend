@@ -1,0 +1,22 @@
+# =============== BASE IMAGE ===============
+FROM python:3.11-slim
+
+# =============== ENVIRONMENT CONFIG ===============
+ENV PYTHONDONTWRITEBYTECODE=1
+ENV PYTHONUNBUFFERED=1
+
+# =============== WORKDIR ===============
+WORKDIR /app
+
+# =============== COPY FILES ===============
+COPY . /app
+
+# =============== INSTALL DEPENDENCIES ===============
+RUN pip install --no-cache-dir -r requirements.txt
+
+# =============== EXPOSE STREAMLIT PORT ===============
+EXPOSE 8501
+
+# =============== RUN APP ===============
+# run the main app
+CMD ["streamlit", "run", "apps/ui/streamlit_app.py", "--server.port=8501", "--server.address=0.0.0.0"]

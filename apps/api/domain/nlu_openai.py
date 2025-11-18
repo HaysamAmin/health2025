@@ -14,12 +14,14 @@
 # ------------------------------------------------------------------------------
 
 from __future__ import annotations
-import os, json
+import json
 from typing import Optional, Tuple, Union
 from openai import OpenAI
+from conf.openapi_config import OPENAI_API_KEY, OPENAI_NLU_MODEL
+from openai import OpenAI
 
-OPENAI_MODEL = os.getenv("OPENAI_NLU_MODEL", "gpt-4o-mini")
-_client = OpenAI(api_key=os.getenv("OPENAI_API_KEY"))
+_client = OpenAI(api_key=OPENAI_API_KEY)
+OPENAI_MODEL = OPENAI_NLU_MODEL
 
 # Function schema the model must call
 NLU_TOOL = [{
@@ -86,7 +88,7 @@ KW_FALLBACK = {
 class OpenAINLU:
     """Return (feature_head, value_or_None) for a student's natural-language question."""
 
-    async def parse(self, text: str) -> Tuple[str, Optional[Union[str, int]]]:
+    def parse(self, text: str) -> Tuple[str, Optional[Union[str, int]]]:
         # 1) Primary path: tool calling with structured JSON
         try:
             messages = [{"role":"system","content":SYSTEM_PROMPT}] + FEW_SHOTS + [
