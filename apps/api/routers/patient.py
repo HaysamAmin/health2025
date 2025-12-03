@@ -19,6 +19,8 @@ from ..domain.codebook import Codebook
 from ..domain.nlu_openai import OpenAINLU
 from ..domain.nlg_openai import human_answer, PAIN_HEADS  # NEW: humanized replies
 from conf.log_config import logger
+# Import classifier
+from ml.message_classifier import classify
 
 router = APIRouter()
 
@@ -66,6 +68,14 @@ async def ask(req: Request, body: AskReq):
             raise HTTPException(404, "Session not found. Call /v1/patient/start first.")
         case = sess["case"]
 
+        # OFF-TOPIC CLASSIFICATION - PMR 02-12-25
+        label = classify(body.text)
+        if label == "off_topic":
+            return AskResp(
+                answer="This question is outside the scope of this medical training tool. Please provide a clinical question to proceed.",
+                revealed=[],
+                decoded=[]
+            )
         # Debug: log before parsing
         logger.info("Calling NLU.parse() ...")
         feature, value = nlu.parse(body.text)

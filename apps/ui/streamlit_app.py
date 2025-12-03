@@ -8,7 +8,7 @@ sys.path.append(os.path.abspath(os.path.join(os.path.dirname(__file__), "../../"
 from conf.log_config import logger
 
 
-# API = "http://127.0.0.1:8000"  # FastAPI base URL
+# API = "http://127.0.0.1:8000"  # FastAPI base URL. Use this for local testing.
 API = "http://fastapi:8000"
 
 st.set_page_config(page_title="SymptSpher (OpenAI NLU)", layout="centered")
