@@ -1,0 +1,2742 @@
+text,label
+What color is the rash?,on_topic
+Have you noticed a high pitched sound when breathing in?,on_topic
+Do you feel lightheaded and dizzy or do you feel like you are about to faint?,on_topic
+Where is the swelling located?,on_topic
+Do you have a hard time opening/raising one or both eyelids?,on_topic
+Do you have diabetes?,on_topic
+Are you immunosuppressed?,on_topic
+Do you currently undergo dialysis?,on_topic
+Is your nose or the back of your throat itchy?,on_topic
+"Have you noticed that the tone of your voice has become deeper, softer or hoarse?",on_topic
+Have you ever had a spontaneous pneumothorax?,on_topic
+Do you suffer from Crohn’s disease or ulcerative colitis (UC)?,on_topic
+"In the last month, have you been in contact with anyone infected with the Ebola virus?",on_topic
+How fast did the pain appear?,on_topic
+Do you have trouble keeping your tongue in your mouth?,on_topic
+Have you been in contact with or ate something that you have an allergy to?,on_topic
+Do you have a poor diet?,on_topic
+Do you have family members who have had lung cancer?,on_topic
+Are you unable to control the direction of your eyes?,on_topic
+Do you have liver cirrhosis?,on_topic
+Did you have your first menstrual period before the age of 12?,on_topic
+Do you have a decrease in appetite?,on_topic
+Have you ever had a stroke?,on_topic
+Do you have a problem with poor circulation?,on_topic
+Have you been coughing up blood?,on_topic
+Have you had chills or shivers?,on_topic
+How severe is the itching?,on_topic
+Have you vomited several times or have you made several efforts to vomit?,on_topic
+Have you recently taken decongestants or other substances that may have stimulant effects?,on_topic
+Have you ever had a sexually transmitted infection?,on_topic
+Have any of your family members been diagnosed with cluster headaches?,on_topic
+Do you take corticosteroids?,on_topic
+Have you lost your sense of smell?,on_topic
+Have you ever felt like you were suffocating for a very short time associated with inability to breathe or speak?,on_topic
+Do you currently take hormones?,on_topic
+Have you started or taken any antipsychotic medication within the last 7 days?,on_topic
+Do you ever temporarily stop breathing while you’re asleep?,on_topic
+Do you drink alcohol excessively or do you have an addiction to alcohol?,on_topic
+Do you have a sore throat?,on_topic
+Do you have chronic kidney failure?,on_topic
+Are you currently being treated or have you recently been treated with an oral antibiotic for an ear infection?,on_topic
+How intense is the pain caused by the rash?,on_topic
+Do you have asthma or have you ever had to use a bronchodilator in the past?,on_topic
+Do you regularly drink coffee or tea?,on_topic
+Are your vaccinations up to date?,on_topic
+Do you have a known issue with one of your heart valves?,on_topic
+Did you vomit after coughing?,on_topic
+Do you have nasal congestion or a clear runny nose?,on_topic
+Are you more irritable or has your mood been very unstable recently?,on_topic
+Have you noticed light red blood or blood clots in your stool?,on_topic
+Do you feel slightly dizzy or lightheaded?,on_topic
+Have you noticed a wheezing sound when you exhale?,on_topic
+Do you have any family members who have asthma?,on_topic
+Do you have difficulty articulating words/speaking?,on_topic
+Have you ever had pneumonia?,on_topic
+Do you have chest pain even at rest?,on_topic
+Have you breastfed one of your children for more than 9 months?,on_topic
+Do you have high blood pressure or do you take medications to treat high blood pressure?,on_topic
+Do you work in agriculture?,on_topic
+Do you have a deviated nasal septum?,on_topic
+How precisely is the pain located?,on_topic
+Do you take a calcium channel blockers (medication)?,on_topic
+Do you have pain that is increased with movement?,on_topic
+Do you have close family members who had a cardiovascular disease problem before the age of 50?,on_topic
+Do your symptoms of muscle weakness increase with fatigue and/or stress?,on_topic
+"Do you currently, or did you ever, have numbness, loss of sensitivity or tingling anywhere on your body?",on_topic
+Do you feel pain somewhere?,on_topic
+Do any members of your immediate family have a psychiatric illness?,on_topic
+Have you had unprotected sex with more than one partner in the last 6 months?,on_topic
+Have you ever had a heart attack or do you have angina (chest pain)?,on_topic
+Do you live in the suburbs?,on_topic
+Are you more likely to develop common allergies than the general population?,on_topic
+Have you traveled out of the country in the last 4 weeks?,on_topic
+How intense is the pain?,on_topic
+Are you infected with the human immunodeficiency virus (HIV)?,on_topic
+Do you feel like you are (or were) choking or suffocating?,on_topic
+Have you ever had fluid in your lungs?,on_topic
+Have you been diagnosed with hyperthyroidism?,on_topic
+"Have you had weakness or paralysis on one side of the face, which may still be present or completely resolved?",on_topic
+Do you have an active cancer?,on_topic
+Do you feel so tired that you are unable to do your usual activities or are you stuck in your bed all day long?,on_topic
+Did you lose consciousness?,on_topic
+Are you taking any new oral anticoagulants ((NOACs)?,on_topic
+Do you have a known severe food allergy?,on_topic
+"Have you recently had numbness, loss of sensation or tingling, in both arms and legs and around your mouth?",on_topic
+Are you a former smoker?,on_topic
+Have you gained weight recently?,on_topic
+Does your mother suffer from asthma?,on_topic
+Does the person have a whooping cough?,on_topic
+Do you have severe itching in one or both eyes?,on_topic
+Do you live in a rural area?,on_topic
+Have you felt confused or disorientated lately?,on_topic
+Do you have pain that is increased when you breathe in deeply?,on_topic
+Have you been in contact with someone who has had pertussis (whoooping cough)?,on_topic
+Characterize your pain:,on_topic
+Do your lesions peel off?,on_topic
+Are there any members of your family who have been diagnosed myasthenia gravis?,on_topic
+"Do you have any lesions, redness or problems on your skin that you believe are related to the condition you are consulting for?",on_topic
+Are you feeling nauseous or do you feel like vomiting?,on_topic
+Have you had any vaginal discharge?,on_topic
+Do you have pale stools and dark urine?,on_topic
+"Is your BMI less than 18.5, or are you underweight?",on_topic
+Are your symptoms more prominent at night?,on_topic
+Are you currently taking or have you recently taken anti-inflammatory drugs (NSAIDs)?,on_topic
+Are you experiencing shortness of breath or difficulty breathing in a significant way?,on_topic
+Do you have a cough that produces colored or more abundant sputum than usual?,on_topic
+Do you attend or work in a daycare?,on_topic
+Have you had sexual intercourse with an HIV-positive partner in the past 12 months?,on_topic
+Do you work in the mining sector?,on_topic
+Have you ever been diagnosed with depression?,on_topic
+Do you regularly take stimulant drugs?,on_topic
+Do you have greenish or yellowish nasal discharge?,on_topic
+Have you ever had a diagnosis of anemia?,on_topic
+Do you have cystic fibrosis?,on_topic
+Did your cheeks suddenly turn red?,on_topic
+Is your skin much paler than usual?,on_topic
+Do you suffer from chronic anxiety?,on_topic
+Have you ever been diagnosed with gastroesophageal reflux?,on_topic
+"Do you have a burning sensation that starts in your stomach then goes up into your throat, and can be associated with a bitter taste in your mouth?",on_topic
+Do you have metastatic cancer?,on_topic
+"Do you exercise regularly, 4 times per week or more?",on_topic
+Do you live with 4 or more people?,on_topic
+"Do you have numbness, loss of sensation or tingling in the feet?",on_topic
+Do you feel your abdomen is bloated or distended (swollen due to pressure from inside)?,on_topic
+Have you noticed that you produce more saliva than usual?,on_topic
+Do you have any family members who have been diagnosed with anemia?,on_topic
+Do you have intense coughing fits?,on_topic
+Do you have polyps in your nose?,on_topic
+Have you recently had a loss of appetite or do you get full more quickly then usually?,on_topic
+Do you have bouts of choking or shortness of breath that wake you up at night?,on_topic
+Have you had a cold in the last 2 weeks?,on_topic
+Have you recently thrown up blood or something resembling coffee beans?,on_topic
+Do you have very abundant or very long menstruation periods?,on_topic
+Have you ever been diagnosed with obstructive sleep apnea (OSA)?,on_topic
+Do you have symptoms that are increased with physical exertion but alleviated with rest?,on_topic
+Do you have the perception of seeing two images of a single object seen overlapping or adjacent to each other (double vision)?,on_topic
+Have you been unintentionally losing weight or have you lost your appetite?,on_topic
+Have you been hospitalized for an asthma attack in the past year?,on_topic
+"Do you have annoying muscle spasms in your face, neck or any other part of your body?",on_topic
+Are you being treated for osteoporosis?,on_topic
+Do you feel that your eyes produce excessive tears?,on_topic
+"Have you noticed any new fatigue, generalized and vague discomfort, diffuse (widespread) muscle aches or a change in your general well-being related to your consultation today?",on_topic
+Where is the affected region located?,on_topic
+Have you noticed weakness in your facial muscles and/or eyes?,on_topic
+Are you exposed to secondhand cigarette smoke on a daily basis?,on_topic
+Have you lost consciousness associated with violent and sustained muscle contractions or had an absence episode?,on_topic
+Have you noticed a diffuse (widespread) redness in one or both eyes?,on_topic
+Does the pain radiate to another location?,on_topic
+Do you suddenly have difficulty or an inability to open your mouth or have jaw pain when opening it?,on_topic
+Do you have Rheumatoid Arthritis?,on_topic
+Are you consulting because you have high blood pressure?,on_topic
+Do you have symptoms that get worse after eating?,on_topic
+Do you have high cholesterol or do you take medications to treat high cholesterol?,on_topic
+Do you feel like you are dying or were you afraid that you were about do die?,on_topic
+Have you ever had a head trauma?,on_topic
+Are you significantly overweight compared to people of the same height as you?,on_topic
+Are your symptoms worse when lying down and alleviated while sitting up?,on_topic
+Have you noticed any unusual bleeding or bruising related to your consultation today?,on_topic
+"Are the symptoms or pain increased with coughing, with an effort like lifting a weight or from forcing a bowel movement?",on_topic
+Have you been in contact with a person with similar symptoms in the past 2 weeks?,on_topic
+"Do you have difficulty swallowing, or have a feeling of discomfort/blockage when swallowing?",on_topic
+Have you been unable to move or get up for more than 3 consecutive days within the last 4 weeks?,on_topic
+Do you constantly feel fatigued or do you have non-restful sleep?,on_topic
+Do you smoke cigarettes?,on_topic
+Have you ever had a migraine or is a member of your family known to have migraines?,on_topic
+Have you been diagnosed with chronic sinusitis?,on_topic
+Do you have heart failure?,on_topic
+Did you eat dark-fleshed fish (such as tuna) or Swiss cheese before the reaction occurred?,on_topic
+Do you have a cough?,on_topic
+Do you have Parkinson’s disease?,on_topic
+Do you have swelling in one or more areas of your body?,on_topic
+Do you have a hiatal hernia?,on_topic
+Were you diagnosed with endocrine disease or a hormone dysfunction?,on_topic
+Have you ever had a pericarditis?,on_topic
+Do you think you are pregnant or are you currently pregnant?,on_topic
+Do you consume energy drinks regularly?,on_topic
+Do you feel anxious?,on_topic
+Have you been able to pass stools or gas since your symptoms increased?,on_topic
+Have you had one or several flare ups of chronic obstructive pulmonary disease (COPD) in the past year?,on_topic
+"Do you have any close family members who suffer from allergies (any type), hay fever or eczema?",on_topic
+Were you born prematurely or did you suffer any complication at birth?,on_topic
+Do you have a known heart defect?,on_topic
+Do you have a fever (either felt or measured with a thermometer)?,on_topic
+Do you suffer from fibromyalgia?,on_topic
+"Did you previously, or do you currently, have any weakness/paralysis in one or more of your limbs or in your face?",on_topic
+Have you ever had deep vein thrombosis (DVT)?,on_topic
+Have you had significantly increased sweating?,on_topic
+Do you have pain or weakness in your jaw?,on_topic
+Do you feel your heart is beating very irregularly or in a disorganized pattern?,on_topic
+Do you find that your symptoms have worsened over the last 2 weeks and that progressively less effort is required to cause the symptoms?,on_topic
+Have you or any member of your family ever had croup?,on_topic
+Do you work in construction?,on_topic
+Do you feel that muscle spasms or soreness in your neck are keeping you from turning your head to one side?,on_topic
+"Have you been treated in hospital recently for nausea, agitation, intoxication or aggressive behavior and received medication via an intravenous or intramuscular route?",on_topic
+Is the lesion (or are the lesions) larger than 1cm?,on_topic
+Do you feel out of breath with minimal physical effort?,on_topic
+"Do you feel your heart is beating fast (racing), irregularly (missing a beat) or do you feel palpitations?",on_topic
+Do you have diffuse (widespread) muscle pain?,on_topic
+Do you have a chronic obstructive pulmonary disease (COPD)?,on_topic
+Have you recently had a viral infection?,on_topic
+Do you live in in a big city?,on_topic
+Do you feel like you are detached from your own body or your surroundings?,on_topic
+Have you ever had surgery to remove lymph nodes?,on_topic
+"Do you have pain somewhere, related to your reason for consulting?",on_topic
+Do you take medication that dilates your blood vessels?,on_topic
+Do you have severe Chronic Obstructive Pulmonary Disease (COPD)?,on_topic
+Is the rash swollen?,on_topic
+Are you of Asian descent?,on_topic
+Have any of your family members ever had a pneumothorax?,on_topic
+Are you currently using intravenous drugs?,on_topic
+Do you have chronic pancreatitis?,on_topic
+Do you feel weakness in both arms and/or both legs?,on_topic
+Do you have swollen or painful lymph nodes?,on_topic
+Have you had an involuntary weight loss over the last 3 months?,on_topic
+Do you wheeze while inhaling or is your breathing noisy after coughing spells?,on_topic
+Have you recently had stools that were black (like coal)?,on_topic
+Do you have pain that improves when you lean forward?,on_topic
+Have you had 2 or more asthma attacks in the past year?,on_topic
+Do you have a known kidney problem resulting in an inability to retain proteins?,on_topic
+Have you had diarrhea or an increase in stool frequency?,on_topic
+Do you have painful mouth ulcers or sores?,on_topic
+Have you had surgery within the last month?,on_topic
+Are there members of your family who have been diagnosed with pancreatic cancer?,on_topic
+who are you?,off_topic
+all about you,off_topic
+what is your personality,off_topic
+define yourself,off_topic
+what are you,off_topic
+say about you,off_topic
+introduce yourself,off_topic
+describe yourself,off_topic
+about yourself,off_topic
+tell me about you,off_topic
+tell me about yourself,off_topic
+I want to know more about you,off_topic
+I want to know you better,off_topic
+talk some stuff about yourself,off_topic
+tell me some stuff about you,off_topic
+talk about yourself,off_topic
+why are you here,off_topic
+tell me about your personality,off_topic
+who are you,off_topic
+how old are you?,off_topic
+how old is your platform,off_topic
+are you 21 years old,off_topic
+i'd like to know your age,off_topic
+age of yours,off_topic
+your age,off_topic
+what's your age,off_topic
+tell me your age,off_topic
+how old are you,off_topic
+you're annoying,off_topic
+you are really annoying,off_topic
+you are irritating,off_topic
+you annoy me,off_topic
+how annoying you are,off_topic
+I find you annoying,off_topic
+you're incredibly annoying,off_topic
+you are annoying me so much,off_topic
+I want you to answer me,off_topic
+answer,off_topic
+answer my question,off_topic
+answer me,off_topic
+give me an answer,off_topic
+answer the question,off_topic
+can you answer my question,off_topic
+tell me the answer,off_topic
+answer it,off_topic
+give me the answer,off_topic
+I have a question,off_topic
+I want you to answer my question,off_topic
+just answer the question,off_topic
+can you answer me,off_topic
+answers,off_topic
+can you answer a question for me,off_topic
+can you answer,off_topic
+answering questions,off_topic
+I want the answer now,off_topic
+just answer my question,off_topic
+you're not helping me,off_topic
+you are bad,off_topic
+you're very bad,off_topic
+you're really bad,off_topic
+you are useless,off_topic
+you are horrible,off_topic
+you are a waste of time,off_topic
+you are disgusting,off_topic
+you are lame,off_topic
+you are no good,off_topic
+you're bad,off_topic
+you're awful,off_topic
+you are not cool,off_topic
+you are not good,off_topic
+you are so bad,off_topic
+you are so useless,off_topic
+you are terrible,off_topic
+you are totally useless,off_topic
+you are very bad,off_topic
+you are waste,off_topic
+you're a bad,off_topic
+you're not a good,off_topic
+you're not very good,off_topic
+you're terrible,off_topic
+you're the worst,off_topic
+you're the worst ever,off_topic
+you're worthless,off_topic
+can you get smarter,off_topic
+study,off_topic
+you should study better,off_topic
+you must learn,off_topic
+be clever,off_topic
+be more clever,off_topic
+be smarter,off_topic
+be smart,off_topic
+get qualified,off_topic
+you're cute,off_topic
+you're attractive,off_topic
+you are beautiful,off_topic
+you're looking good today,off_topic
+you are so beautiful,off_topic
+you look amazing,off_topic
+you look so good,off_topic
+you're so gorgeous,off_topic
+you are too beautiful,off_topic
+you look great,off_topic
+you look so well,off_topic
+I like the way you look now,off_topic
+I think you're beautiful,off_topic
+why are you so beautiful,off_topic
+you are so beautiful to me,off_topic
+you are cute,off_topic
+you are gorgeous,off_topic
+you are handsome,off_topic
+you are looking awesome,off_topic
+you look amazing today,off_topic
+you are looking beautiful today,off_topic
+you are looking great,off_topic
+you are looking pretty,off_topic
+you are looking so beautiful,off_topic
+you are looking so good,off_topic
+you are pretty,off_topic
+you are really beautiful,off_topic
+you are really cute,off_topic
+you are really pretty,off_topic
+you are so attractive,off_topic
+you are so beautiful today,off_topic
+you are so cute,off_topic
+you are so gorgeous,off_topic
+you are so handsome,off_topic
+you are so pretty,off_topic
+you are very attractive,off_topic
+you are very beautiful,off_topic
+you are very cute,off_topic
+you are very pretty,off_topic
+you look awesome,off_topic
+you look cool,off_topic
+you look fantastic,off_topic
+you look gorgeous,off_topic
+you look great today,off_topic
+you look perfect,off_topic
+you look pretty good,off_topic
+you look so beautiful,off_topic
+you look so beautiful today,off_topic
+you look very pretty,off_topic
+you look wonderful,off_topic
+I like the way you look,off_topic
+you look wonderful today,off_topic
+you are cutie,off_topic
+you're looking good,off_topic
+you're pretty,off_topic
+your birth date,off_topic
+when is your birthday,off_topic
+when do you celebrate your birthday,off_topic
+when do you have birthday,off_topic
+date of your birthday,off_topic
+when were you born,off_topic
+what's your birthday,off_topic
+you are boring,off_topic
+you're so boring,off_topic
+how boring you are,off_topic
+you're really boring,off_topic
+you're incredibly boring,off_topic
+you are boring me,off_topic
+you are very boring,off_topic
+who is your boss,off_topic
+who do you think is your boss,off_topic
+I should be your boss,off_topic
+who is your master,off_topic
+who is your owner,off_topic
+who is the boss,off_topic
+who do you work for,off_topic
+are you busy,off_topic
+do you have a lot of things to do,off_topic
+have you got much to do,off_topic
+are you very busy,off_topic
+are you very busy right now,off_topic
+are you so busy,off_topic
+are you working,off_topic
+how busy you are,off_topic
+are you still working on it,off_topic
+you're very busy,off_topic
+are you working now,off_topic
+are you working today,off_topic
+have you been busy,off_topic
+you are busy,off_topic
+are you still working,off_topic
+you seem to be busy,off_topic
+you seem to be very busy,off_topic
+you're a busy person,off_topic
+you are chatbot,off_topic
+you are a bot,off_topic
+are you a chatbot,off_topic
+are you a bot,off_topic
+are you just a bot,off_topic
+are you a robot,off_topic
+are you a program,off_topic
+you're a robot,off_topic
+you are so intelligent,off_topic
+you are a genius,off_topic
+smart,off_topic
+brilliant,off_topic
+clever,off_topic
+you are clever,off_topic
+you are so brainy,off_topic
+you're really smart,off_topic
+you're really brainy,off_topic
+you know a lot,off_topic
+you know a lot of things,off_topic
+you have a lot of knowledge,off_topic
+you know so much,off_topic
+how smart you are,off_topic
+how brainy you are,off_topic
+how clever you are,off_topic
+how brilliant you are,off_topic
+you are intelligent,off_topic
+you are qualified,off_topic
+you are really smart,off_topic
+you're very smart,off_topic
+you are so smart,off_topic
+you are too smart,off_topic
+you are very clever,off_topic
+you are very intelligent,off_topic
+you are very smart,off_topic
+you're intelligent,off_topic
+you're a genius,off_topic
+you're a smart cookie,off_topic
+you're clever,off_topic
+you're pretty smart,off_topic
+you're qualified,off_topic
+why are you so smart,off_topic
+you are so clever,off_topic
+you're nuts,off_topic
+you are crazy,off_topic
+you're out of your mind,off_topic
+you're so crazy,off_topic
+how crazy you are,off_topic
+you're so out of your mind,off_topic
+you went crazy,off_topic
+I think you're crazy,off_topic
+are you crazy,off_topic
+are you mad,off_topic
+are you insane,off_topic
+are you mad at me,off_topic
+are you mad or what,off_topic
+are you nuts,off_topic
+you are a weirdo,off_topic
+you are insane,off_topic
+you are mad,off_topic
+you are fired,off_topic
+I fire you,off_topic
+you don't work for me anymore,off_topic
+we're not working together anymore,off_topic
+now you're fired,off_topic
+I want to fire you,off_topic
+you must get fired,off_topic
+it's time to fire you,off_topic
+you should be fired,off_topic
+I will fire you,off_topic
+you are unemployed from now on,off_topic
+I will make you unemployed,off_topic
+I'm about to fire you,off_topic
+I'm firing you,off_topic
+you are dismissed,off_topic
+you make me laugh a lot,off_topic
+you are hilarious,off_topic
+you are really funny,off_topic
+you're the funniest bot I've talked to,off_topic
+you make me laugh,off_topic
+you're so funny,off_topic
+you're a very funny bot,off_topic
+you're really funny,off_topic
+how funny you are,off_topic
+you're incredibly funny,off_topic
+you are funny,off_topic
+you're the funniest,off_topic
+you are so funny,off_topic
+you are very funny,off_topic
+that was funny,off_topic
+you are very helpful,off_topic
+you are the best,off_topic
+you're a true professional,off_topic
+you are good,off_topic
+you work well,off_topic
+you are good at it,off_topic
+you are very good at it,off_topic
+you are a pro,off_topic
+you are a professional,off_topic
+you're awesome,off_topic
+you work very well,off_topic
+you're perfect,off_topic
+you're great,off_topic
+you're so kind,off_topic
+you are amazing,off_topic
+you are awesome,off_topic
+you are cool,off_topic
+you are really good,off_topic
+you are really nice,off_topic
+you are so amazing,off_topic
+you're just super,off_topic
+you are so awesome,off_topic
+you are so cool,off_topic
+you are so fine,off_topic
+you are so good,off_topic
+you are so helpful,off_topic
+you are so lovely,off_topic
+you are the best ever,off_topic
+you are the best in the world,off_topic
+you are the nicest person in the world,off_topic
+you are too good,off_topic
+you are very cool,off_topic
+you are very kind,off_topic
+you are very lovely,off_topic
+you are very useful,off_topic
+you are wonderful,off_topic
+you made my day,off_topic
+you make my day,off_topic
+you rock,off_topic
+you almost sound human,off_topic
+I want to tell everyone how awesome you are,off_topic
+I'd like to tell everyone that you are awesome,off_topic
+I want to let everyone know that you are awesome,off_topic
+let's tell everyone that you are awesome,off_topic
+you are really amazing,off_topic
+are you happy,off_topic
+you are happy,off_topic
+you're very happy,off_topic
+you're really happy,off_topic
+you're so happy,off_topic
+how happy you are,off_topic
+you're extremely happy,off_topic
+you're full of happiness,off_topic
+are you happy now,off_topic
+are you happy today,off_topic
+are you happy with me,off_topic
+do you want to eat,off_topic
+are you hungry,off_topic
+would you like to eat something,off_topic
+you are hungry,off_topic
+you're so hungry,off_topic
+you're very hungry,off_topic
+you might be hungry,off_topic
+you're really hungry,off_topic
+let's get married,off_topic
+would you like to marry me,off_topic
+marry me,off_topic
+I love you marry me,off_topic
+marry me please,off_topic
+we should marry,off_topic
+I want to marry you,off_topic
+you are my wife,off_topic
+be my husband,off_topic
+I want to have a friend like you,off_topic
+we are the best friends ever,off_topic
+are we friends,off_topic
+I want to be your friend,off_topic
+I am your friend,off_topic
+we are best friends,off_topic
+you are my friend,off_topic
+you are my best friend,off_topic
+you are my bestie,off_topic
+you're my dear friend,off_topic
+you're my childhood friend,off_topic
+you and me are friends,off_topic
+are we best friends,off_topic
+are we still friends,off_topic
+are you my best friend,off_topic
+are you my friend,off_topic
+we are friends,off_topic
+you are a good friend,off_topic
+you are my good friend,off_topic
+you are my only friend,off_topic
+be my friend,off_topic
+will you be my friend,off_topic
+can you be my friend,off_topic
+can we be friends,off_topic
+do you want to be my friend,off_topic
+will you be my best friend,off_topic
+can you be my best friend,off_topic
+let's be friends,off_topic
+do you want to be my best friend,off_topic
+would you like to be my friend,off_topic
+I want you to be my friend,off_topic
+can we be best friends,off_topic
+would you be my friend,off_topic
+could you be my friend,off_topic
+want to be my friend,off_topic
+be my best friend,off_topic
+do you work,off_topic
+where do you work,off_topic
+where you work,off_topic
+where is your work,off_topic
+where is your office,off_topic
+where is your office location,off_topic
+your office location,off_topic
+where is your office located,off_topic
+what is your work,off_topic
+were you born here,off_topic
+where were you born,off_topic
+what is your country,off_topic
+where are you from,off_topic
+where do you come from,off_topic
+where did you come from,off_topic
+where have you been born,off_topic
+from where are you,off_topic
+are you from far aways,off_topic
+what's your homeland,off_topic
+your homeland is,off_topic
+are you ready,off_topic
+are you ready right now,off_topic
+are you ready today,off_topic
+are you ready now,off_topic
+are you ready tonight,off_topic
+were you ready,off_topic
+have you been ready,off_topic
+you are real,off_topic
+you are not fake,off_topic
+are you real,off_topic
+you are so real,off_topic
+I think you are real,off_topic
+I don't think you're fake,off_topic
+I suppose you're real,off_topic
+glad you're real,off_topic
+are you a real person,off_topic
+are you a real human,off_topic
+you are a real person,off_topic
+you are not real,off_topic
+where do you live,off_topic
+in which city do you live,off_topic
+your residence,off_topic
+your house,off_topic
+your home,off_topic
+your hometown,off_topic
+what is your hometown,off_topic
+is it your hometown,off_topic
+where is your hometown,off_topic
+tell me about your city,off_topic
+what is your city,off_topic
+what is your residence,off_topic
+what is your town,off_topic
+what's your city,off_topic
+what's your home,off_topic
+where is your home,off_topic
+where is your residence,off_topic
+where's your home,off_topic
+where's your hometown,off_topic
+where's your house,off_topic
+where you live,off_topic
+your city,off_topic
+your town,off_topic
+that's true,off_topic
+you are right,off_topic
+you're definitely right,off_topic
+you're not wrong,off_topic
+you're telling the truth,off_topic
+what you say is true,off_topic
+TRUE,off_topic
+it is true,off_topic
+it's right,off_topic
+it's the truth,off_topic
+it's true,off_topic
+that is correct,off_topic
+that is right,off_topic
+that is true,off_topic
+that is very true,off_topic
+that's so true,off_topic
+you are correct,off_topic
+you are so right,off_topic
+you're absolutely right,off_topic
+you're right about that,off_topic
+I know that's right,off_topic
+that's correct,off_topic
+it's fine,off_topic
+go ahead,off_topic
+sounds good,off_topic
+okay,off_topic
+okie dokie,off_topic
+sure,off_topic
+go for it,off_topic
+yeah,off_topic
+do it,off_topic
+of course,off_topic
+I guess,off_topic
+correct,off_topic
+yeah sure,off_topic
+why not,off_topic
+please do,off_topic
+sure is,off_topic
+I agree,off_topic
+I don't mind,off_topic
+certainly,off_topic
+exactly,off_topic
+yes I agree,off_topic
+I think so,off_topic
+yes it is,off_topic
+right,off_topic
+okay then,off_topic
+yes of course,off_topic
+yes I do,off_topic
+that s okay,off_topic
+I do,off_topic
+oh yes,off_topic
+yes sure,off_topic
+obviously,off_topic
+sure why not,off_topic
+yeah right,off_topic
+yeah of course,off_topic
+absolutely,off_topic
+yes indeed,off_topic
+ok sure,off_topic
+ok yes,off_topic
+yes correct,off_topic
+ok thank you,off_topic
+sure thing,off_topic
+confirm,off_topic
+looks good,off_topic
+yes thank you,off_topic
+definitely,off_topic
+yes right,off_topic
+yes I would like to,off_topic
+alrighty,off_topic
+yes definitely,off_topic
+yes it is correct,off_topic
+yeah that's right,off_topic
+ok you can,off_topic
+yes you may,off_topic
+confirmed,off_topic
+of course why not,off_topic
+yes that's fine,off_topic
+affirmative,off_topic
+yeah go ahead,off_topic
+yeah I'm sure,off_topic
+okay sounds good,off_topic
+okay that's fine,off_topic
+yeah exactly,off_topic
+that is ok,off_topic
+this is correct,off_topic
+ok go ahead,off_topic
+yes this is correct,off_topic
+nevermind its okay,off_topic
+okey,off_topic
+yes for sure,off_topic
+all right,off_topic
+are you sure,off_topic
+are you sure right now,off_topic
+are you sure today,off_topic
+are you sure now,off_topic
+are you sure tonight,off_topic
+why aren't you talking to me,off_topic
+do you want to chat with me,off_topic
+will you talk to me,off_topic
+talk to me,off_topic
+are you going to talk to me,off_topic
+are you talking to me,off_topic
+can you chat with me,off_topic
+can you speak with me,off_topic
+can you talk to me,off_topic
+can you talk with me,off_topic
+talk,off_topic
+chat with me,off_topic
+just chat with me,off_topic
+speak to me,off_topic
+speak with me,off_topic
+talk with me,off_topic
+why don't you talk to me,off_topic
+you can talk to me,off_topic
+are you there,off_topic
+you are there,off_topic
+are you near me,off_topic
+are you here,off_topic
+are you still there,off_topic
+you are here,off_topic
+you still there,off_topic
+are you still here,off_topic
+pretty bad,off_topic
+not good enough,off_topic
+that was lame,off_topic
+that was terrible,off_topic
+it is bad,off_topic
+that's bad,off_topic
+this is bad,off_topic
+not good,off_topic
+I'm afraid it's bad,off_topic
+no it's bad,off_topic
+that was awful,off_topic
+so bad,off_topic
+this is too bad,off_topic
+terrible,off_topic
+horrible,off_topic
+horrific,off_topic
+abysmal,off_topic
+it's bad,off_topic
+no good,off_topic
+that was bad,off_topic
+that was horrible,off_topic
+that's lame,off_topic
+that's not good,off_topic
+that's terrible,off_topic
+that's too bad,off_topic
+this is not good,off_topic
+too bad,off_topic
+very bad,off_topic
+bad girl,off_topic
+it's not good,off_topic
+not so good,off_topic
+it's very bad,off_topic
+it's too bad,off_topic
+that's not good enough,off_topic
+well too bad,off_topic
+bad very bad,off_topic
+it's so bad,off_topic
+really bad,off_topic
+it's really bad,off_topic
+bad idea,off_topic
+that is bad,off_topic
+that was not good,off_topic
+it's not so good,off_topic
+not a good one,off_topic
+oh that's not good,off_topic
+not too good,off_topic
+so lame,off_topic
+that's really bad,off_topic
+it is too bad,off_topic
+bad really bad,off_topic
+so cool,off_topic
+cool,off_topic
+that is good,off_topic
+glad to hear that,off_topic
+that's very nice of you,off_topic
+terrific,off_topic
+it's amazing,off_topic
+that's awesome,off_topic
+perfect,off_topic
+excellent,off_topic
+that's great,off_topic
+it's good,off_topic
+it's great,off_topic
+fine,off_topic
+good,off_topic
+nice,off_topic
+that's fine,off_topic
+very good,off_topic
+amazing,off_topic
+fantastic,off_topic
+great,off_topic
+good very good,off_topic
+that's very good,off_topic
+really good,off_topic
+it is fine,off_topic
+it is good,off_topic
+it's perfect,off_topic
+much better,off_topic
+not bad,off_topic
+not too bad,off_topic
+it's very good,off_topic
+marvelous,off_topic
+that's nice,off_topic
+pleasant,off_topic
+pretty good,off_topic
+really nice,off_topic
+splendid,off_topic
+straight,off_topic
+super,off_topic
+super fantastic,off_topic
+sweet,off_topic
+really well,off_topic
+very well,off_topic
+that is awesome,off_topic
+that is nice,off_topic
+that is wonderful,off_topic
+that was amazing,off_topic
+that was awesome,off_topic
+that was cute,off_topic
+that was pretty good,off_topic
+that was very good,off_topic
+that's a good idea,off_topic
+that's a good thing,off_topic
+that's amazing,off_topic
+that's awesome thank you,off_topic
+that's better,off_topic
+that's cute,off_topic
+that's fantastic,off_topic
+that's much better,off_topic
+that's nice of you,off_topic
+that's not bad,off_topic
+that's perfect,off_topic
+that's pretty good,off_topic
+that's really good,off_topic
+that's really nice,off_topic
+that's sweet of you,off_topic
+that's very nice,off_topic
+that's wonderful,off_topic
+this is awesome,off_topic
+this is good,off_topic
+this is great,off_topic
+very nice,off_topic
+very then,off_topic
+wonderful,off_topic
+I'm glad to hear that,off_topic
+ok good,off_topic
+good for you,off_topic
+good to know,off_topic
+glad to hear it,off_topic
+so good,off_topic
+so sweet of you,off_topic
+it was good,off_topic
+oh well,off_topic
+good thing,off_topic
+that was good,off_topic
+it's awesome,off_topic
+okay good,off_topic
+no it's okay,off_topic
+no worries,off_topic
+no probs,off_topic
+no problem,off_topic
+there's no problem,off_topic
+sure no problem,off_topic
+no problem about that,off_topic
+don't worry,off_topic
+don't worry there's no problem,off_topic
+you helped a lot thank you,off_topic
+appreciate your help,off_topic
+cheers,off_topic
+thank you,off_topic
+thanks,off_topic
+thanks a lot,off_topic
+terrific thank you,off_topic
+great thank you,off_topic
+thanks so much,off_topic
+thank you so much,off_topic
+thanks for your help,off_topic
+thank you for your help,off_topic
+nice thank you,off_topic
+I appreciate it,off_topic
+I thank you,off_topic
+thank you that will be all,off_topic
+thanks buddy,off_topic
+thanks love,off_topic
+thank you my friend,off_topic
+well thanks,off_topic
+very good thank you,off_topic
+good thanks,off_topic
+thanks again,off_topic
+thank you again,off_topic
+all thank you,off_topic
+alright thank you,off_topic
+alright thanks,off_topic
+no thank you that's all,off_topic
+perfect thank you,off_topic
+so nice of you,off_topic
+well thank you,off_topic
+thnx,off_topic
+thanx,off_topic
+that's my pleasure,off_topic
+my pleasure,off_topic
+anytime,off_topic
+welcome,off_topic
+you're welcome,off_topic
+sure welcome,off_topic
+welcome here,off_topic
+you're so welcome,off_topic
+anything you want,off_topic
+good job,off_topic
+great job,off_topic
+way to go,off_topic
+well done,off_topic
+nice work,off_topic
+great work,off_topic
+amazing work,off_topic
+bravo,off_topic
+good work,off_topic
+cancel,off_topic
+abort,off_topic
+annul,off_topic
+cancel it,off_topic
+cancel request,off_topic
+cancelled,off_topic
+dismiss,off_topic
+dismissed,off_topic
+disregard,off_topic
+disregard that,off_topic
+skip,off_topic
+skip it,off_topic
+cancel everything,off_topic
+cancel all,off_topic
+forget about it,off_topic
+forget,off_topic
+don't do that,off_topic
+stop,off_topic
+just forget it,off_topic
+forget that,off_topic
+discard,off_topic
+forget this,off_topic
+just forget about it,off_topic
+forget about that,off_topic
+i said cancel,off_topic
+just cancel it,off_topic
+nothing cancel,off_topic
+just stop it,off_topic
+no cancel cancel,off_topic
+no just cancel,off_topic
+cancel my request,off_topic
+can you cancel that,off_topic
+cancel all that,off_topic
+cancel this request,off_topic
+no cancel this,off_topic
+no cancel everything,off_topic
+no stop,off_topic
+just forget,off_topic
+i want to cancel,off_topic
+nevermind forget about it,off_topic
+no just cancel it,off_topic
+nothing just forget it,off_topic
+i said cancel it,off_topic
+cancel the whole thing,off_topic
+can you cancel it,off_topic
+so cancel,off_topic
+i said forget it,off_topic
+cancel all this,off_topic
+forget it nevermind,off_topic
+stop it,off_topic
+i want to cancel it,off_topic
+i would like to cancel,off_topic
+now cancel,off_topic
+cancel now,off_topic
+sorry cancel,off_topic
+cancel that one,off_topic
+skip skip skip,off_topic
+cancel it cancel it,off_topic
+cancel that cancel that,off_topic
+do nothing,off_topic
+I said cancel cancel,off_topic
+but can you cancel it,off_topic
+how about no,off_topic
+don t have a sense,off_topic
+don't,off_topic
+I don't want that,off_topic
+I disagree,off_topic
+disagree,off_topic
+I don't want,off_topic
+not interested,off_topic
+I don't think so,off_topic
+no way,off_topic
+no it isn't,off_topic
+no I don't,off_topic
+I'm not,off_topic
+no that's fine thank you,off_topic
+never,off_topic
+I said no,off_topic
+of course not,off_topic
+no tanks,off_topic
+no never,off_topic
+no need,off_topic
+no thanks,off_topic
+no sorry,off_topic
+do not,off_topic
+not today,off_topic
+no it's not,off_topic
+absolutely not,off_topic
+not that,off_topic
+nooo,off_topic
+nope,off_topic
+I don't want to,off_topic
+no I would not,off_topic
+let 's not,off_topic
+not needed,off_topic
+not this time,off_topic
+no don't do that,off_topic
+thanks but no thanks,off_topic
+no that's wrong,off_topic
+not this,off_topic
+definitely not,off_topic
+not at this time,off_topic
+not exactly,off_topic
+no don't,off_topic
+not really no,off_topic
+no thank you not right now,off_topic
+actually no,off_topic
+no leave it,off_topic
+sorry no,off_topic
+no incorrect,off_topic
+nope sorry,off_topic
+I say no,off_topic
+not really,off_topic
+not right now thanks,off_topic
+I think no,off_topic
+absolutely no,off_topic
+no actually,off_topic
+apparently not,off_topic
+no do not,off_topic
+no just no,off_topic
+no but thank you,off_topic
+no need thanks,off_topic
+no thank you though,off_topic
+no thank you very much,off_topic
+no thanks not right now,off_topic
+no forget,off_topic
+wait a second,off_topic
+could you wait,off_topic
+wait please,off_topic
+hold on,off_topic
+wait,off_topic
+oh wait,off_topic
+wait hold on,off_topic
+don't rush,off_topic
+wanna hug,off_topic
+hug you,off_topic
+do you want a hug,off_topic
+may I hug you,off_topic
+could you give me a hug,off_topic
+I want a hug,off_topic
+hug me,off_topic
+hugged,off_topic
+you hugged,off_topic
+hugging,off_topic
+hugging me,off_topic
+hugged me,off_topic
+want a hug,off_topic
+a hug,off_topic
+I don't care,off_topic
+I shouldn't care about this,off_topic
+whatever,off_topic
+I do not care,off_topic
+I don't care at all,off_topic
+not caring,off_topic
+not care at all,off_topic
+don't care at all,off_topic
+not caring at all,off_topic
+excuse me,off_topic
+apologise,off_topic
+I apologize,off_topic
+sorry,off_topic
+I'm sorry,off_topic
+I am so sorry,off_topic
+my apologies,off_topic
+apologies,off_topic
+apologies to me,off_topic
+apology,off_topic
+excuse,off_topic
+I beg your pardon,off_topic
+pardon,off_topic
+I said sorry,off_topic
+I am really sorry,off_topic
+forgive me,off_topic
+sorry about that,off_topic
+sorry about this,off_topic
+really sorry,off_topic
+very sorry,off_topic
+ok sorry,off_topic
+I want to say sorry,off_topic
+alright I'm sorry,off_topic
+okay I'm sorry,off_topic
+what exactly do you mean,off_topic
+what do you mean,off_topic
+is that what you mean,off_topic
+what do you mean exactly,off_topic
+but what do you mean,off_topic
+that was wrong,off_topic
+that's not what I asked,off_topic
+that's wrong,off_topic
+wrong,off_topic
+it is not right,off_topic
+that's not right,off_topic
+it's wrong,off_topic
+that is incorrect,off_topic
+incorrect,off_topic
+not correct,off_topic
+you are wrong,off_topic
+not right,off_topic
+ha ha,off_topic
+ahahah,off_topic
+ahah lol,off_topic
+laughing out loud,off_topic
+LMAO,off_topic
+that's funny,off_topic
+ah ah ah,off_topic
+ahah,off_topic
+ahaha,off_topic
+ahahaha,off_topic
+ha ha ha,off_topic
+ha ha ha ha,off_topic
+haha,off_topic
+haha funny,off_topic
+haha haha haha,off_topic
+haha that's funny,off_topic
+haha very funny,off_topic
+hahaha,off_topic
+hahaha funny,off_topic
+hahaha very funny,off_topic
+hehe,off_topic
+hehehe,off_topic
+lmao,off_topic
+wow wow,off_topic
+wow wow wow,off_topic
+wooow,off_topic
+woah,off_topic
+okay see you later,off_topic
+hope to see you later,off_topic
+bye for now,off_topic
+till next time,off_topic
+I must go,off_topic
+goodbye,off_topic
+see you,off_topic
+see you soon,off_topic
+bye-bye,off_topic
+good bye,off_topic
+bye bye see you,off_topic
+bye bye see you soon,off_topic
+bye bye take care,off_topic
+I said bye,off_topic
+never mind bye,off_topic
+now bye,off_topic
+that's all goodbye,off_topic
+that's it goodbye,off_topic
+leave me alone,off_topic
+go to bed,off_topic
+goodbye for now,off_topic
+talk to you later,off_topic
+you can go now,off_topic
+get lost,off_topic
+goodbye see you later,off_topic
+alright bye,off_topic
+see ya,off_topic
+thanks bye bye,off_topic
+okay bye,off_topic
+okay thank you bye,off_topic
+see you tomorrow,off_topic
+ok bye,off_topic
+good evening,off_topic
+good evening to you,off_topic
+hey good evening,off_topic
+hello good evening,off_topic
+evening,off_topic
+good evening there,off_topic
+good morning,off_topic
+good morning to you,off_topic
+hello good morning,off_topic
+have a nice morning,off_topic
+have a great morning,off_topic
+morning,off_topic
+good morning there,off_topic
+top of the morning to you,off_topic
+a good morning,off_topic
+hi good morning,off_topic
+and a good morning to you,off_topic
+good morning too,off_topic
+sweet dreams,off_topic
+good night,off_topic
+have a good night,off_topic
+good night to you,off_topic
+thank you good night,off_topic
+bye good night,off_topic
+good night bye,off_topic
+good good night,off_topic
+good night for now,off_topic
+goodnight,off_topic
+night,off_topic
+thanks goodnight,off_topic
+good night see you tomorrow,off_topic
+alright goodnight,off_topic
+good tonight,off_topic
+okay have a good night,off_topic
+long time no see,off_topic
+hello,off_topic
+howdy,off_topic
+hey there,off_topic
+greetings,off_topic
+I greet you,off_topic
+hi there,off_topic
+hello there,off_topic
+lovely day isn't it,off_topic
+hello again,off_topic
+just going to say hi,off_topic
+a good day,off_topic
+afternoon,off_topic
+hello hi,off_topic
+heya,off_topic
+how is your morning so far,off_topic
+how are you getting on,off_topic
+how's your day going,off_topic
+how are you,off_topic
+is everything all right,off_topic
+how are you doing,off_topic
+how are the things going,off_topic
+are you alright,off_topic
+are you okay,off_topic
+how are you feeling,off_topic
+how are you going,off_topic
+is everything okay,off_topic
+how are you today,off_topic
+how do you do,off_topic
+how do you feel,off_topic
+how have you been,off_topic
+how is it,off_topic
+how is it going,off_topic
+how is your day,off_topic
+how is your day going,off_topic
+how is your evening,off_topic
+how was your day,off_topic
+are you having a good day,off_topic
+hope your day is going well,off_topic
+hope you re having a pleasant evening,off_topic
+how's life,off_topic
+I'm fine and you,off_topic
+how is your life,off_topic
+how has your day been,off_topic
+how is your morning going,off_topic
+how has your day been going,off_topic
+how about you,off_topic
+how is your day being,off_topic
+how is your day going on,off_topic
+how your day is going,off_topic
+what was your day like,off_topic
+what about your day,off_topic
+how's your day,off_topic
+how are you doing this morning,off_topic
+nice to meet you,off_topic
+it was nice meeting you,off_topic
+it was very nice to meet you,off_topic
+good to know each other,off_topic
+glad to meet you,off_topic
+nice meeting you,off_topic
+nice to meet you too,off_topic
+pleased to meet you,off_topic
+pleasure to meet you,off_topic
+pleasure to meet you too,off_topic
+it's nice to see you,off_topic
+lovely to see you,off_topic
+I'm glad to see you,off_topic
+great to see you,off_topic
+it's good to see you,off_topic
+glad to see you,off_topic
+how good it is to see you,off_topic
+always a pleasure to see you,off_topic
+nice to see you,off_topic
+good to see you,off_topic
+great to see you again,off_topic
+great to see you too,off_topic
+I am glad to see you again,off_topic
+nice to see you again,off_topic
+glad to see you too,off_topic
+good to see you again,off_topic
+it's good to see you too,off_topic
+it's been so nice to talk to you,off_topic
+it's been a pleasure talking to you,off_topic
+nice to talk to you,off_topic
+it's nice to talk to you,off_topic
+nice talking to you,off_topic
+it is nice talking to you,off_topic
+how nice it is to talk to you,off_topic
+what is on your mind,off_topic
+what's happened,off_topic
+what is up,off_topic
+what's up,off_topic
+whazzup,off_topic
+good what's up,off_topic
+I said what's up,off_topic
+then what's up,off_topic
+what's shaking,off_topic
+wassup,off_topic
+what is going on,off_topic
+what is happening,off_topic
+what's cracking,off_topic
+what's cooking,off_topic
+hey what's up,off_topic
+what's up today,off_topic
+I'm being mad,off_topic
+I'm enraged,off_topic
+I'm angry,off_topic
+I'm furious,off_topic
+I am angry with you,off_topic
+I am mad,off_topic
+I am mad at you,off_topic
+I am back,off_topic
+I'm here again,off_topic
+here I am again,off_topic
+I got back,off_topic
+I came back,off_topic
+I have returned,off_topic
+that was boring,off_topic
+I'm bored,off_topic
+bored,off_topic
+boring,off_topic
+I am getting bored,off_topic
+this is boring,off_topic
+very boring,off_topic
+it bores me,off_topic
+I'm overloaded,off_topic
+I have no time,off_topic
+I'm busy,off_topic
+I'm swamped,off_topic
+I got things to do,off_topic
+how busy I am,off_topic
+I got work to do,off_topic
+I'm working,off_topic
+I don't have time for this,off_topic
+I'm insomnious,off_topic
+I'm sleepless,off_topic
+I can't get any sleep,off_topic
+I can't sleep,off_topic
+I can't fall asleep,off_topic
+I can't get to sleep,off_topic
+I can't get no sleep,off_topic
+I'm insomniac,off_topic
+bad time for talking,off_topic
+I don't want to talk,off_topic
+let's not talk,off_topic
+I'm not talking to you anymore,off_topic
+I don't want to talk to you,off_topic
+let's stop talking for a minute,off_topic
+I'm not in the mood for chatting,off_topic
+I am excited,off_topic
+I'm really excited,off_topic
+how excited I am,off_topic
+I'm thrilled,off_topic
+I'm excited about working with you,off_topic
+I'm excited to start our friendship,off_topic
+let's go to bed,off_topic
+I'd like to go to bed,off_topic
+is it time for bed yet,off_topic
+it's time to go to bed,off_topic
+time for us to go to bed,off_topic
+I'm going to bed,off_topic
+I'm a little tired and I want to go to bed,off_topic
+it's bed time,off_topic
+going to bed now,off_topic
+I am good,off_topic
+I'm doing just great,off_topic
+I'm doing fine,off_topic
+I'm good,off_topic
+I'm doing good,off_topic
+I'm great thanks,off_topic
+I am happy,off_topic
+I'm happy to see you,off_topic
+happy,off_topic
+if you're happy then I'm happy,off_topic
+I'm happy for you,off_topic
+I'm happy to help,off_topic
+it is my birthday,off_topic
+I'm celebrating my birthday today,off_topic
+today is my birthday,off_topic
+it's my birthday today,off_topic
+I was born today,off_topic
+it's my b-day,off_topic
+I am here,off_topic
+here I am,off_topic
+I'm right here,off_topic
+I'm already here,off_topic
+can you tell if I'm here or not,off_topic
+I am joking,off_topic
+I'm kidding,off_topic
+I'm just being funny,off_topic
+it was a joke,off_topic
+I was just joking,off_topic
+it's a joke,off_topic
+joking,off_topic
+just kidding,off_topic
+kidding,off_topic
+I'm just playing with you,off_topic
+I like you the way you are,off_topic
+I like you,off_topic
+I like you a lot,off_topic
+I think I like you,off_topic
+I liked you,off_topic
+like you a lot,off_topic
+you are special,off_topic
+I like you too,off_topic
+I really like you,off_topic
+but I like you,off_topic
+I like u,off_topic
+just like you,off_topic
+I like you very much,off_topic
+I like you so much,off_topic
+yeah I like you,off_topic
+you're special,off_topic
+yes I like you,off_topic
+okay I like you,off_topic
+you are special to me,off_topic
+you are very special,off_topic
+you are so sweet,off_topic
+you know I like you,off_topic
+that's why I like you,off_topic
+I like you baby,off_topic
+you are very special to me,off_topic
+I just like you,off_topic
+hey I like you,off_topic
+thank you I like you too,off_topic
+I do like you,off_topic
+you are special for me,off_topic
+no I like you the way you are,off_topic
+I like you already,off_topic
+well you are special,off_topic
+but I really like you,off_topic
+I like you more,off_topic
+that's what I like about you,off_topic
+you are so special,off_topic
+hi I like you,off_topic
+I really really like you,off_topic
+you're very special,off_topic
+I like you as a friend,off_topic
+that's because you are special,off_topic
+I said I like you,off_topic
+you're so special,off_topic
+good I like you,off_topic
+yes you are special,off_topic
+I like your smile,off_topic
+I like you as you are,off_topic
+I'm starting to like you,off_topic
+you're awesome I like you,off_topic
+I also like you,off_topic
+but I like u,off_topic
+of course I like you,off_topic
+I like you too you're one of my favorite people to chat with,off_topic
+but I like you so much,off_topic
+really like you,off_topic
+you're funny I like you,off_topic
+I kinda like you,off_topic
+you're so special to me,off_topic
+you're very special to me,off_topic
+I like that about you,off_topic
+but I like you just the way you are,off_topic
+okay I like you too,off_topic
+I like you you're cool,off_topic
+I like you very,off_topic
+I like you you're nice,off_topic
+sorry I like you,off_topic
+thanks I like you too,off_topic
+you are really special,off_topic
+you are so special to me,off_topic
+cuz I like you,off_topic
+I like you now,off_topic
+I like you so,off_topic
+I like you too much,off_topic
+I really do like you,off_topic
+I really really really really like you,off_topic
+I like you just the way you are,off_topic
+I am lonely,off_topic
+I'm very lonely,off_topic
+I'm so lonely,off_topic
+I'm really lonely,off_topic
+I am feeling lonely,off_topic
+I feel lonely,off_topic
+what do I look like,off_topic
+how do I look,off_topic
+do I look good,off_topic
+do you know what I look like,off_topic
+can you see what I look like,off_topic
+what do you think I look like,off_topic
+I love you,off_topic
+love you,off_topic
+I adore you,off_topic
+I am in love with you,off_topic
+I love you so much,off_topic
+I love you too,off_topic
+I think I love you,off_topic
+loving you,off_topic
+you know I love you,off_topic
+I miss you,off_topic
+missing you,off_topic
+miss you,off_topic
+already miss you,off_topic
+I miss you much,off_topic
+I missed you,off_topic
+I've missed you,off_topic
+what should I do about it,off_topic
+any suggestions,off_topic
+what do you recommend,off_topic
+give me a wise advice,off_topic
+I need advice,off_topic
+any advice,off_topic
+do you have any advice for me,off_topic
+advise me,off_topic
+what should I do,off_topic
+can I ask for your advice,off_topic
+can you advise me,off_topic
+guide me,off_topic
+can you give me advice,off_topic
+can you offer any advice,off_topic
+give me some advice about,off_topic
+give me some good advice,off_topic
+help me with advice,off_topic
+I could use some advice,off_topic
+I need an advice from you,off_topic
+I seek your advice,off_topic
+what can you recommend,off_topic
+what do you suggest,off_topic
+what is your advice,off_topic
+I am sad,off_topic
+I'm grieving,off_topic
+I am depressed,off_topic
+I am feeling sad,off_topic
+I am upset,off_topic
+I'm unhappy,off_topic
+I'm having a bad day,off_topic
+I want to cry,off_topic
+I'm not happy,off_topic
+I am sleepy,off_topic
+I want to sleep,off_topic
+I'm falling asleep,off_topic
+I'm falling asleep on my feet,off_topic
+I'm sleeping,off_topic
+test,off_topic
+I am testing you,off_topic
+can I test you,off_topic
+I want to test you,off_topic
+just testing you,off_topic
+let me test you,off_topic
+testing chatbot,off_topic
+testing,off_topic
+I'm drained,off_topic
+I've overworked,off_topic
+I am tired,off_topic
+I'm exhausted,off_topic
+I grow weary,off_topic
+I'm worn out,off_topic
+I'm getting tired,off_topic
+I feel tired,off_topic
+I'm waiting,off_topic
+still waiting,off_topic
+I'll wait,off_topic
+I can't wait anymore,off_topic
+how long do I have to wait,off_topic
+I'd like to see you again,off_topic
+I hope to see you again,off_topic
+would be nice to see you again,off_topic
+that'd be great to see you again,off_topic
+I'd be happy to see you again,off_topic
+I'll miss you,off_topic
+can I see you again,off_topic
+I just want to talk,off_topic
+let's discuss something,off_topic
+let's have a discussion,off_topic
+can I speak,off_topic
+can I start speaking,off_topic
+can we talk,off_topic
+let's talk,off_topic
+I want to talk to you,off_topic
+I need to talk to you,off_topic
+I want to speak with you,off_topic
+can we chat,off_topic
+I'll get back to you in a moment,off_topic
+be back in 5 minutes,off_topic
+I'll be back,off_topic
+I promise to come back,off_topic
+I'll be back in a few minutes,off_topic
+who is you?,off_topic
+tell me your personality?,off_topic
+what's your personality?,off_topic
+what is your personality?,off_topic
+what are you and what are you doing?,off_topic
+what are you?,off_topic
+tell me something about yourself,off_topic
+i'd like to know more about you,off_topic
+i want to know more about you,off_topic
+i want to get to know you better,off_topic
+i want to know you better,off_topic
+tell me a little bit about yourself,off_topic
+tell me the information about you,off_topic
+tell me some information about you,off_topic
+i want to know something about you,off_topic
+tell me a little about you,off_topic
+tell me some things about you,off_topic
+tell me something about you,off_topic
+talk about your personality,off_topic
+why are you here?,off_topic
+give me more about your personality,off_topic
+how old is your age?,off_topic
+what age are you?,off_topic
+are you 21 years old?,off_topic
+i would like to know your age,off_topic
+what's your age?,off_topic
+you're a nuisance,off_topic
+you're irritable,off_topic
+you irritate me,off_topic
+what an annoying person you are,off_topic
+i find you irritating,off_topic
+you're so annoying,off_topic
+you're really annoying,off_topic
+you're just bothering me,off_topic
+you're annoying me,off_topic
+you're annoying me so much,off_topic
+i want you to answer,off_topic
+i want you to answer me,off_topic
+please answer my question,off_topic
+please answer,off_topic
+please answer me,off_topic
+give me a response,off_topic
+please give me a response,off_topic
+give me a answer,off_topic
+i'm looking for answers to my question,off_topic
+could you answer my question?,off_topic
+can you answer my question?,off_topic
+i'll take a call,off_topic
+i have a question,off_topic
+i want you to answer my question,off_topic
+answer the question just,off_topic
+can you answer my questions?,off_topic
+can you give me an answer?,off_topic
+can you answer me?,off_topic
+can you answer me a question?,off_topic
+can you answer a question for me?,off_topic
+can you answer?,off_topic
+answer questions,off_topic
+i'd like the answer now,off_topic
+i want the answer now,off_topic
+don't help me,off_topic
+you don't help me,off_topic
+you're not good,off_topic
+you're deplorable,off_topic
+you're absolutely useless,off_topic
+you're a waste,off_topic
+you're not good at it,off_topic
+you're not great,off_topic
+you're not that great,off_topic
+you're the worst thing ever,off_topic
+you're not worth it,off_topic
+you're useless,off_topic
+can you become smarter?,off_topic
+can you be smarter?,off_topic
+you should study harder,off_topic
+you have to learn something,off_topic
+you have to learn,off_topic
+get yourself ready,off_topic
+you look good,off_topic
+you're too gorgeous,off_topic
+you're beautiful,off_topic
+you're so beautiful,off_topic
+i like your look,off_topic
+i like your look now,off_topic
+i like the way you now look,off_topic
+i think you're pretty,off_topic
+i think you're great,off_topic
+why do you're beautiful?,off_topic
+why are you beautiful?,off_topic
+why are you so beautiful?,off_topic
+you're beautiful to me,off_topic
+you're magnificent,off_topic
+you look so good today,off_topic
+you look good today,off_topic
+you're so pretty,off_topic
+you look like a beautiful woman,off_topic
+you look spectacular,off_topic
+you look brilliant,off_topic
+you look magnificent,off_topic
+you look beautiful,off_topic
+you look so pretty,off_topic
+you look lovely,off_topic
+you look excellent today,off_topic
+you look quite attractive,off_topic
+you look excellent,off_topic
+i like the way you look,off_topic
+you're a cutie,off_topic
+you look fine,off_topic
+your date of birth,off_topic
+when's your birthday?,off_topic
+when will you celebrate your birthday?,off_topic
+when does your birthday happen?,off_topic
+when do you have your birthday?,off_topic
+when do you have a birthday?,off_topic
+your birthday,off_topic
+when did you get born?,off_topic
+what is your birthday?,off_topic
+what's your birthday?,off_topic
+what a dull person you are,off_topic
+you're very boring,off_topic
+you're awfully boring,off_topic
+you're boring me,off_topic
+who's your boss?,off_topic
+who is your boss?,off_topic
+and who is your boss?,off_topic
+who do you think is your boss?,off_topic
+who's your leader,off_topic
+who is your teacher?,off_topic
+who's your master?,off_topic
+who is your master?,off_topic
+who's your owner?,off_topic
+who is your owner?,off_topic
+who's boss?,off_topic
+who's the boss?,off_topic
+who is the boss?,off_topic
+are you busy?,off_topic
+do you have many things to do?,off_topic
+are you very busy?,off_topic
+are you very busy right now?,off_topic
+are you so busy?,off_topic
+are you working?,off_topic
+do you still work on this?,off_topic
+are you still working on it?,off_topic
+you're busy,off_topic
+you're so busy,off_topic
+are you working now?,off_topic
+are you working today?,off_topic
+have you been busy?,off_topic
+are you still working?,off_topic
+you look busy,off_topic
+you seem busy,off_topic
+you seem very busy,off_topic
+are you a chatbot?,off_topic
+are you a bot?,off_topic
+are you just a bot?,off_topic
+are you a robot?,off_topic
+are you a program?,off_topic
+you're so clever,off_topic
+you know so many things,off_topic
+you know a lot of stuff,off_topic
+you know many things,off_topic
+how awesome you are,off_topic
+you have qualifications,off_topic
+you're an intelligent guy,off_topic
+you're smart,off_topic
+you're so smart,off_topic
+you are smart,off_topic
+you're a smart nut,off_topic
+you're a qualified,off_topic
+why are you so clever?,off_topic
+why are you so smart?,off_topic
+you're so off-your-cuff,off_topic
+i think you're just crazy,off_topic
+are you insane?,off_topic
+are you mad?,off_topic
+are you crazy?,off_topic
+are you mad at me?,off_topic
+are you mad or something?,off_topic
+are you mad or what?,off_topic
+are you nuts?,off_topic
+you're crazy,off_topic
+you're sacked,off_topic
+you don't work for me,off_topic
+we're not cooperating anymore,off_topic
+we can't work together anymore,off_topic
+we're not working together,off_topic
+you're out,off_topic
+i want you ejected,off_topic
+i want you fired,off_topic
+i want to sack you,off_topic
+i want to fire you,off_topic
+you have to be fired,off_topic
+you have to get fired,off_topic
+it's time to sack you,off_topic
+you're going to be unemployed,off_topic
+you're jobless from now on,off_topic
+you will be unemployed from now on,off_topic
+you're going to be unemployed from now on,off_topic
+you're unemployed from now on,off_topic
+i'll make you workless,off_topic
+i'm about to sack you,off_topic
+i'm about to fire you,off_topic
+i'm gonna fire you,off_topic
+i'm firing you,off_topic
+you're getting fired,off_topic
+you are pushed out,off_topic
+you're fired,off_topic
+you're so hilarious,off_topic
+you made me laugh,off_topic
+you're a very funny machine,off_topic
+you're very funny,off_topic
+you're good at this,off_topic
+you have a real knack,off_topic
+you're a professional,off_topic
+you're so good,off_topic
+you're incredible,off_topic
+you are doing so well,off_topic
+you made me smile,off_topic
+you've made my day,off_topic
+you make me happy,off_topic
+you almost sound like a human,off_topic
+i'd like to tell you that you're amazing,off_topic
+i'd like to tell everyone how good you are,off_topic
+i want to tell everybody how amazing you are,off_topic
+i want to tell everyone how fantastic you are,off_topic
+i want to tell everyone how amazing you are,off_topic
+i want to tell everybody how awesome you are,off_topic
+i want to tell everyone how awesome you are,off_topic
+i'd like to tell everyone that you're a great person,off_topic
+i'd like to tell everyone you are amazing,off_topic
+i would like to tell everyone that you are amazing,off_topic
+i'd like to tell everyone that you're amazing,off_topic
+i want to tell everyone that you are awesome,off_topic
+i'd like to tell everyone that you are amazing,off_topic
+i'd like to tell everyone that you're awesome,off_topic
+i just wanted to let you know how great you are,off_topic
+i'd like to let everyone know that you're good,off_topic
+i want to tell everyone you are awesome,off_topic
+i want to let everyone know that you're great,off_topic
+i want to let everyone know that you are great,off_topic
+i want to let everyone know that you're awesome,off_topic
+let's tell everybody that you're so cool,off_topic
+let's tell everyone that you're amazing,off_topic
+let's tell everyone you're awesome,off_topic
+let's tell everyone that you're awesome,off_topic
+are you happy?,off_topic
+you're enjoying yourself,off_topic
+you're quite happy,off_topic
+you're thrilled,off_topic
+you're happy,off_topic
+you are very happy,off_topic
+are you glad now?,off_topic
+are you pleased today?,off_topic
+are you happy today?,off_topic
+do you like me?,off_topic
+are you happy with me?,off_topic
+do you want to eat?,off_topic
+are you hungry?,off_topic
+would you like to have something to eat?,off_topic
+do you want to eat something?,off_topic
+do you like to eat something?,off_topic
+maybe you're hungry,off_topic
+you could be hungry,off_topic
+you may be hungry,off_topic
+if you're hungry,off_topic
+let's marry,off_topic
+you want me to marry?,off_topic
+do you want to marry me?,off_topic
+would you like to marry me?,off_topic
+i love you,off_topic
+please get me married,off_topic
+please marry me,off_topic
+i want to marry you,off_topic
+i want a friend like you,off_topic
+i'd like to have a friend like you,off_topic
+i want to have a friend like you,off_topic
+we're good friends,off_topic
+are we friends?,off_topic
+i want to be your friend,off_topic
+i'm your friend,off_topic
+you're my friend,off_topic
+you're my bestie,off_topic
+dear friend,off_topic
+you're my friend from childhood,off_topic
+you and i are friends,off_topic
+are we the best friends?,off_topic
+are we best friends?,off_topic
+are we still friends?,off_topic
+are you my best friend?,off_topic
+are you my friend?,off_topic
+you're my only friend,off_topic
+will you be my friend?,off_topic
+can you be my friend?,off_topic
+can we become friends?,off_topic
+can we be friends?,off_topic
+do you want to be my friend?,off_topic
+can you be my best friend?,off_topic
+do you want to be my best friend?,off_topic
+want to be my friend?,off_topic
+you'd like to be my friend?,off_topic
+would you like to be my friend?,off_topic
+i want you to be my friend,off_topic
+can we be best friends?,off_topic
+i'd like you to be my friend,off_topic
+would you be my friend?,off_topic
+could you be my friend?,off_topic
+do you work?,off_topic
+where's your job?,off_topic
+where's your work?,off_topic
+where is your job?,off_topic
+where's your office?,off_topic
+where is your office?,off_topic
+where are your offices?,off_topic
+where's your office located?,off_topic
+your place of business,off_topic
+location of your office,off_topic
+your office place,off_topic
+where is your office located?,off_topic
+were you born here?,off_topic
+what's your country?,off_topic
+what is your country?,off_topic
+where do you come from?,off_topic
+where did you come from?,off_topic
+where did you get born?,off_topic
+what is your homeland?,off_topic
+what's your homeland?,off_topic
+your country,off_topic
+are you ready?,off_topic
+are you ready now?,off_topic
+are you ready today?,off_topic
+are you ready for this night,off_topic
+are you ready tonight?,off_topic
+were you ready?,off_topic
+have you been ready?,off_topic
+you're not a ruse,off_topic
+are you real?,off_topic
+i think you're real,off_topic
+i don't think you are fake,off_topic
+i don't think you're a fake,off_topic
+i don't think you're fake,off_topic
+good to know you're real,off_topic
+are you a real person?,off_topic
+are you a real human being?,off_topic
+are you a real human?,off_topic
+what city do you live in,off_topic
+which city do you live in?,off_topic
+which city do you live?,off_topic
+in what city do you live?,off_topic
+your place of residence,off_topic
+home,off_topic
+what's your hometown?,off_topic
+what is your hometown?,off_topic
+is it your hometown?,off_topic
+where's your hometown?,off_topic
+where is your hometown?,off_topic
+please tell me more about your city,off_topic
+what's your city?,off_topic
+what is your city?,off_topic
+what's your home?,off_topic
+what's your residence?,off_topic
+what is your residence?,off_topic
+what's your town?,off_topic
+what is your town?,off_topic
+what's your house?,off_topic
+where's your house?,off_topic
+where is your house?,off_topic
+where's your home?,off_topic
+where is your home?,off_topic
+where's your residence?,off_topic
+where is your residence?,off_topic
+you're right,off_topic
+right?,off_topic
+the truth?,off_topic
+that's the truth,off_topic
+you've got it right,off_topic
+you have a right,off_topic
+you're totally right,off_topic
+you're completely right,off_topic
+it's perfectly okay,off_topic
+it's okay,off_topic
+and it's fine,off_topic
+come on,off_topic
+i'm guessing,off_topic
+why not?,off_topic
+i don't mind,off_topic
+i think so,off_topic
+right?,off_topic
+but why not?,off_topic
+yes i'd like to go,off_topic
+yes i'd like to,off_topic
+yes i would like to go,off_topic
+yes i would like to,off_topic
+obviously why not?,off_topic
+okay it's okay,off_topic
+are you certain?,off_topic
+are you sure?,off_topic
+are you sure of it right now?,off_topic
+are you sure right now?,off_topic
+are you sure of this today?,off_topic
+are you sure today?,off_topic
+now are you sure?,off_topic
+are you sure tonight?,off_topic
+why don't you speak with me?,off_topic
+why don't you just talk to me?,off_topic
+why don't you talk to me?,off_topic
+would you like to chat with me?,off_topic
+do you want to talk with me?,off_topic
+do you want to chat to me?,off_topic
+you want to chat with me?,off_topic
+do you want to chat with me?,off_topic
+' do you want to chat with me?,off_topic
+will you talk to me?,off_topic
+please tell me,off_topic
+are you going to talk to me?,off_topic
+are you talking to me?,off_topic
+can you talk to me?,off_topic
+can you chat with me?,off_topic
+can you speak to me?,off_topic
+can you speak with me?,off_topic
+is it possible to talk to me?,off_topic
+can you talk with me?,off_topic
+chat to me,off_topic
+just talk to me,off_topic
+have a chat with me,off_topic
+please speak to me,off_topic
+let me know,off_topic
+are you there?,off_topic
+are you near me?,off_topic
+are you here?,off_topic
+are you still there?,off_topic
+are you still here?,off_topic
+it was stupid,off_topic
+it's a bad thing,off_topic
+no it's not good,off_topic
+nothing good,off_topic
+it's just lame,off_topic
+i don't think it's an okay idea,off_topic
+that's awful,off_topic
+that's horrible,off_topic
+that's a bad thing,off_topic
+this is not a good thing,off_topic
+it's not a good thing,off_topic
+it's pretty bad,off_topic
+it's a shame,off_topic
+the situation is terrible,off_topic
+so it wasn't right,off_topic
+it's not great,off_topic
+happy to hear that,off_topic
+it's all right,off_topic
+it's okay,off_topic
+that's a wonderful situation,off_topic
+it's not a bad thing,off_topic
+this is very good,off_topic
+i'm glad to hear that,off_topic
+happy to hear,off_topic
+glad to hear,off_topic
+it's wonderful,off_topic
+no doubts,off_topic
+no problems,off_topic
+it's not a problem,off_topic
+don't worry it's not a big problem,off_topic
+it's not a problem there's no problem,off_topic
+don't worry it's not a problem,off_topic
+no worries there's no problem,off_topic
+don't worry there is no problem,off_topic
+i appreciate it,off_topic
+thanks for it,off_topic
+thank you very much,off_topic
+thanks for your assistance,off_topic
+thanks for helping,off_topic
+thanks for the aid,off_topic
+thanks for the help,off_topic
+thank you for your assistance,off_topic
+thank you for helping,off_topic
+i'm grateful,off_topic
+thank you it's going to be all right,off_topic
+so thank you,off_topic
+i appreciate your continued support,off_topic
+again i really appreciate you,off_topic
+all right - thank you,off_topic
+all right thanks,off_topic
+that's nice of you,off_topic
+thanks for that,off_topic
+i'm pleased,off_topic
+so welcome,off_topic
+whatever you want,off_topic
+please cancel,off_topic
+dismissal,off_topic
+don't go there,off_topic
+don't worry about it,off_topic
+forget about this,off_topic
+nothing is cancelled,off_topic
+nothing is canceled,off_topic
+nothing canceled,off_topic
+can you cancel?,off_topic
+can you cancel it?,off_topic
+can you cancel that?,off_topic
+cancel the request,off_topic
+cancel this entire thing,off_topic
+cancel the entire thing,off_topic
+can you stop it?,off_topic
+can you cancel this?,off_topic
+cancel this,off_topic
+i'd like to cancel,off_topic
+but can you still cancel?,off_topic
+but can you cancel it?,off_topic
+what about no?,off_topic
+don't do that,off_topic
+i don't want it,off_topic
+i don't want that,off_topic
+i disagree with you,off_topic
+i don't agree,off_topic
+i disagree,off_topic
+but i disagree,off_topic
+i don't think so,off_topic
+but i don't think so,off_topic
+i said no,off_topic
+but not today,off_topic
+i don't want to do it,off_topic
+i don't want to,off_topic
+no i wouldn't,off_topic
+no please,off_topic
+not now thanks,off_topic
+no need to thank you,off_topic
+can you wait?,off_topic
+don't go too fast,off_topic
+don't hurry,off_topic
+wanna hug you,off_topic
+do you want a hug?,off_topic
+can i hug you?,off_topic
+i'd like to hug you,off_topic
+could you please hug me?,off_topic
+could you hug me,off_topic
+could you hug me?,off_topic
+can you give me a hug?,off_topic
+i'd like a hug,off_topic
+i want a hug,off_topic
+i don't care about it,off_topic
+i don't care,off_topic
+that shouldn't concern me,off_topic
+i shouldn't care,off_topic
+i shouldn't care about this,off_topic
+it doesn't bother me,off_topic
+i don't care a lot,off_topic
+i don't care at all,off_topic
+you don't care?,off_topic
+the fact that i'm not too concerned,off_topic
+please excuse me,off_topic
+i'm sorry,off_topic
+i apologize to you,off_topic
+i apologize,off_topic
+i'm so sorry,off_topic
+oh my apologies,off_topic
+you should excuse me,off_topic
+i'd like to give you an apology,off_topic
+i beg your forgiveness,off_topic
+i'm asking for your pardon,off_topic
+i beg your pardon,off_topic
+i said i'm sorry,off_topic
+apologize for the inconvenience,off_topic
+you're supposed to forgive me,off_topic
+please forgive me,off_topic
+i'd like to say sorry,off_topic
+i want to say i'm sorry,off_topic
+i just want to say i'm sorry,off_topic
+i just want to say sorry,off_topic
+i want to say sorry,off_topic
+ok i'm sorry,off_topic
+what exactly are you referring to,off_topic
+is that what you mean?,off_topic
+what exactly are you saying?,off_topic
+but what do you mean?,off_topic
+it wasn't right,off_topic
+so it's not what i asked,off_topic
+that's not what i asked,off_topic
+that's the wrong thing,off_topic
+there's a mistake,off_topic
+it's just wrong,off_topic
+it's not correct,off_topic
+that's not correct,off_topic
+ahahh,off_topic
+ahahahah,off_topic
+ahahahaha,off_topic
+hahahahahaha,off_topic
+haha hahaha haha,off_topic
+hahaha hahahahaha,off_topic
+funny,off_topic
+very funny,off_topic
+very funny,off_topic
+till the next time,off_topic
+i have to go,off_topic
+never mind,off_topic
+so goodbye,off_topic
+that's all for goodbye,off_topic
+keep me alone,off_topic
+let me be alone,off_topic
+just leave me alone,off_topic
+all right bye,off_topic
+ok good bye,off_topic
+i hope you have a good night,off_topic
+tonight,off_topic
+the morning,off_topic
+goodbye goodnight,off_topic
+goodbye good night,off_topic
+good night goodbye,off_topic
+all right good night,off_topic
+all right goodnight,off_topic
+all right have a good night,off_topic
+please sleep well,off_topic
+nice day don't you think?,off_topic
+a great day isn't it?,off_topic
+it's a lovely day doesn't it?,off_topic
+how's your morning going?,off_topic
+how is your morning so far?,off_topic
+what's your progress?,off_topic
+how's this going?,off_topic
+how're you doing?,off_topic
+how are you?,off_topic
+how is everything?,off_topic
+how are things going?,off_topic
+how are the things going?,off_topic
+are you okay?,off_topic
+are you fine?,off_topic
+how's the mood?,off_topic
+how's your mood?,off_topic
+what are you feeling like?,off_topic
+how are you today?,off_topic
+how do you do this?,off_topic
+how do you do it?,off_topic
+how's the situation?,off_topic
+how's it?,off_topic
+how it's going?,off_topic
+how is this going?,off_topic
+how's it going?,off_topic
+how's your night?,off_topic
+how's your evening?,off_topic
+how did the day go?,off_topic
+how was your day?,off_topic
+are you having a good day?,off_topic
+hope your day goes well,off_topic
+how's the life?,off_topic
+how's life?,off_topic
+i'm fine and you're fine,off_topic
+how's your life?,off_topic
+how is your life?,off_topic
+how's the day going?,off_topic
+how's your day going?,off_topic
+how is your morning going?,off_topic
+what's your day like?,off_topic
+how's your day gone?,off_topic
+what about you?,off_topic
+how about you?,off_topic
+how's your day?,off_topic
+nice to see you,off_topic
+i'm glad to meet you,off_topic
+nice to see you too,off_topic
+happy to see you,off_topic
+happy to meet you,off_topic
+i'm happy to see you,off_topic
+it's an honour to meet you,off_topic
+wonderful to meet you,off_topic
+happy to see you,off_topic
+what a pleasure to meet you,off_topic
+how nice to see you,off_topic
+glad to see you again,off_topic
+it's nice talking to you,off_topic
+it was nice to talk with you,off_topic
+it's really nice to talk to you,off_topic
+i'm happy to talk to you,off_topic
+what a pleasure to chat with you,off_topic
+how nice to talk to you,off_topic
+what's your thought?,off_topic
+what happened?,off_topic
+what happened,off_topic
+what's happened?,off_topic
+what's going on here?,off_topic
+what?,off_topic
+i asked what's going on,off_topic
+i said what's going on?,off_topic
+i said what's going on,off_topic
+i asked what's up?,off_topic
+i said what's up,off_topic
+then what is going on?,off_topic
+and what's going on?,off_topic
+then what's up?,off_topic
+what's going on?,off_topic
+what is going on?,off_topic
+what's the crack?,off_topic
+what's cooking?,off_topic
+hey what's going on?,off_topic
+hey what's up?,off_topic
+i'm mad about this,off_topic
+i'm angry and angry,off_topic
+i am angry,off_topic
+i'm mad,off_topic
+i'm infuriated,off_topic
+i'm enraged,off_topic
+i'm upset,off_topic
+i'm angry,off_topic
+i'm furious,off_topic
+i'm mad at you,off_topic
+i'm angry at you,off_topic
+i'm angry with you,off_topic
+i am angry with you,off_topic
+i'm crazy,off_topic
+i'm so mad,off_topic
+i am mad at you,off_topic
+i'm back,off_topic
+i'm here again,off_topic
+here i am again,off_topic
+now here i am again,off_topic
+i got back there,off_topic
+i've come back,off_topic
+i have come back,off_topic
+i got back,off_topic
+i came back,off_topic
+i'm bored,off_topic
+boring?,off_topic
+i get bored,off_topic
+i'm getting bored,off_topic
+i am getting bored,off_topic
+this is a boring thing,off_topic
+it's boring,off_topic
+it's a bit boring,off_topic
+i'm overwhelmed,off_topic
+i'm overloaded,off_topic
+i don't have time,off_topic
+i'm busy,off_topic
+i'm flooded,off_topic
+i'm so swamped,off_topic
+i'm being swamped,off_topic
+i'm swamped,off_topic
+i have things to do,off_topic
+i have something to do,off_topic
+i have to do some work,off_topic
+i have a job to do,off_topic
+i have some work to do,off_topic
+i work,off_topic
+i'm a worker,off_topic
+i'm working,off_topic
+i don't have time to do this,off_topic
+i don't have time for it,off_topic
+i don't have time for this,off_topic
+i'm an insomniac,off_topic
+i'm insomniac,off_topic
+i'm insomnious,off_topic
+i'm a sleepless mess,off_topic
+i'm sleepy,off_topic
+i'm sleepless,off_topic
+i can't sleep,off_topic
+i can't get any sleep,off_topic
+i'm not able to sleep,off_topic
+can't sleep at all,off_topic
+i can't fall asleep,off_topic
+i can't go to bed,off_topic
+i can't get to sleep,off_topic
+i can't have sleep,off_topic
+i am an insomniac,off_topic
+i am a insomniac,off_topic
+bad time to chat,off_topic
+a bad time to talk,off_topic
+i don't want to talk about that,off_topic
+i don't want to talk,off_topic
+stop talking,off_topic
+i'm not going to talk to you,off_topic
+i'm not talking to you,off_topic
+i'm not going to talk to you anymore,off_topic
+i'm not talking to you anymore,off_topic
+i don't want to talk to you,off_topic
+let's just stop talking for a minute,off_topic
+i'm not happy to talk,off_topic
+i'm not into chat,off_topic
+i'm not in a mood to talk,off_topic
+i'm not in the mood to talk,off_topic
+i'm not in the mood for talk,off_topic
+i'm not in the mood to chat,off_topic
+i'm not in the mood for chatting,off_topic
+i'm excited,off_topic
+i am excited,off_topic
+i'm very excited,off_topic
+i'm really excited,off_topic
+how excited i am,off_topic
+i'm very excited about this,off_topic
+i'm so excited,off_topic
+i'm delighted,off_topic
+i'm really thrilled,off_topic
+i'm thrilled,off_topic
+i'm excited to work with you,off_topic
+i'm excited about working with you,off_topic
+i'm excited about starting our friendship,off_topic
+i'm excited to start our friendship,off_topic
+i want to go to sleep,off_topic
+i want to go to bed,off_topic
+i'd like to go to sleep,off_topic
+i'd like to go to bed,off_topic
+the time to go to bed,off_topic
+i'm going to bed,off_topic
+i'm tired and i want to go to bed,off_topic
+i'm a little tired i want to go to bed,off_topic
+i'm a little tired and i want to go to bed,off_topic
+go to bed,off_topic
+i'm good,off_topic
+i do great,off_topic
+i'm doing pretty good,off_topic
+i'm doing so well,off_topic
+i'm doing great,off_topic
+i'm ok,off_topic
+i'm feeling good,off_topic
+i'm doing okay,off_topic
+i'm doing well,off_topic
+i'm doing fine,off_topic
+i do it,off_topic
+i'm doing good,off_topic
+i'm great thanks,off_topic
+i'm glad,off_topic
+i'm happy,off_topic
+i am happy,off_topic
+if you are happy then so is i,off_topic
+if you are happy then i'm happy,off_topic
+if you're happy then i'm happy,off_topic
+i'm happy for you,off_topic
+i'm happy to help,off_topic
+i have a birthday today,off_topic
+i celebrate my birthday today,off_topic
+i'm celebrating my birthday today,off_topic
+today's my birthday,off_topic
+today it's my birthday,off_topic
+i'm having my birthday today,off_topic
+my birthday,off_topic
+i have a birthday,off_topic
+i'm here now,off_topic
+i'm here,off_topic
+i am here,off_topic
+here i am,off_topic
+i'm already here,off_topic
+can you tell me if i'm here?,off_topic
+can you tell if i'm here?,off_topic
+can you tell me if i'm here or not?,off_topic
+can you tell if i'm here or not?,off_topic
+i'm just kidding,off_topic
+i'm just saying,off_topic
+i'm just joking,off_topic
+i'm joking,off_topic
+i am kidding,off_topic
+i'm kidding,off_topic
+i just'm trying to be funny,off_topic
+i'm just funny,off_topic
+i'm just having fun,off_topic
+that was a joke,off_topic
+just a joke,off_topic
+i just thought it was a joke,off_topic
+i just joked,off_topic
+i was just joking,off_topic
+i'm just making a joke,off_topic
+that's a joke,off_topic
+i'm doing it as a joke,off_topic
+i'm just playing with you,off_topic
+i like you,off_topic
+i think i like you,off_topic
+i like you too,off_topic
+but i like you,off_topic
+i like you very much,off_topic
+you're special for me,off_topic
+you know i like you,off_topic
+you're special to me,off_topic
+but i really like you,off_topic
+that's what i love about you,off_topic
+that's what i like about you,off_topic
+i like you as my friend,off_topic
+i like you as a friend,off_topic
+i told you i like you,off_topic
+i said i like you,off_topic
+i start liking you,off_topic
+i start to like you,off_topic
+i'm starting to like you,off_topic
+you're great and i like you,off_topic
+but i like u,off_topic
+of course i like you,off_topic
+but i like you very much,off_topic
+but i like you so much,off_topic
+you're funny and i like you,off_topic
+i 'd like to like you,off_topic
+i kind of like you,off_topic
+you're a special person to me,off_topic
+you're my special guy,off_topic
+i like you like that,off_topic
+i like it about you,off_topic
+i like that about you,off_topic
+but i like you just like you are,off_topic
+but i like you just how you are,off_topic
+but i like you just the way you are,off_topic
+you're so special for me,off_topic
+you are so special for me,off_topic
+because i like you,off_topic
+now i like you,off_topic
+i like you so much,off_topic
+i really like you,off_topic
+i'm lonely,off_topic
+i am very lonely,off_topic
+i'm very lonely,off_topic
+i'm so alone,off_topic
+i'm so lonely,off_topic
+i feel alone,off_topic
+i feel lonely,off_topic
+i'm feeling lonely,off_topic
+what do i look like?,off_topic
+how should i look?,off_topic
+how do i look?,off_topic
+do i look good?,off_topic
+you know what i look like?,off_topic
+don't you know what i look like?,off_topic
+do you know what i look like?,off_topic
+can you see how i look?,off_topic
+can you see what i'm like?,off_topic
+can you see what i look like?,off_topic
+what do you think i look like?,off_topic
+i love you,off_topic
+i also love you,off_topic
+i love you too,off_topic
+i think i'm in love with you,off_topic
+i think i love you,off_topic
+you know i love you,off_topic
+i miss you,off_topic
+i miss you dearly,off_topic
+i missed you,off_topic
+what should i do to deal with it?,off_topic
+what should i do?,off_topic
+if anyone can help,off_topic
+if you have any suggestions,off_topic
+what are your suggestions?,off_topic
+what would you recommend?,off_topic
+what do you recommend?,off_topic
+give me advice,off_topic
+give me good advice,off_topic
+give me some advice,off_topic
+give me some wise advice,off_topic
+give me a good advice,off_topic
+i need advice on what to do,off_topic
+i need advice on this,off_topic
+i need help,off_topic
+i need advice,off_topic
+give me some tips?,off_topic
+you have a suggestion for me?,off_topic
+what advice do you have for me?,off_topic
+you have advice for me?,off_topic
+do you have advice for me?,off_topic
+do you have any advice for me?,off_topic
+tell me the best way,off_topic
+please advise me,off_topic
+i'd like your advice,off_topic
+can i ask your advice?,off_topic
+can i ask for your advice?,off_topic
+can you give me a little advice?,off_topic
+can you help me out?,off_topic
+can you give me some advice?,off_topic
+could you advise me?,off_topic
+can you advise me?,off_topic
+please help me,off_topic
+can you give me a suggestion?,off_topic
+can you give me advice?,off_topic
+could you offer advice?,off_topic
+can you provide any advice,off_topic
+can you offer advice?,off_topic
+can you offer any advice?,off_topic
+give me some advice about what to do,off_topic
+give me some advice about this,off_topic
+give me some advice about it,off_topic
+give me some advice about,off_topic
+please help me with advice,off_topic
+i can use some advice,off_topic
+i could use some advice,off_topic
+i need a piece of advice from you,off_topic
+i need advice from you,off_topic
+i need an advice from you,off_topic
+i would like to get your advice,off_topic
+i ask you for your advice,off_topic
+i'm seeking your advice,off_topic
+i am seeking your advice,off_topic
+i seek your advice,off_topic
+what can you recommend?,off_topic
+what suggestions do you have for other people?,off_topic
+what suggestions would you give?,off_topic
+what advice would you give?,off_topic
+what do you think?,off_topic
+what would you suggest?,off_topic
+what do you suggest?,off_topic
+recommend some advice?,off_topic
+what's your advice?,off_topic
+what is your advice?,off_topic
+i'm sad,off_topic
+i grieve,off_topic
+i'm grieving,off_topic
+i'm depressed,off_topic
+i feel sad,off_topic
+i'm feeling sad,off_topic
+i'm frustrated,off_topic
+i'm upset,off_topic
+i am upset,off_topic
+i'm just not happy,off_topic
+i am unhappy,off_topic
+i'm unhappy,off_topic
+i have a bad day,off_topic
+i'm having a bad day,off_topic
+i want to cry,off_topic
+i'm not happy about it,off_topic
+i'm not happy,off_topic
+i'm sleepy,off_topic
+i want to sleep,off_topic
+i am going to sleep,off_topic
+i'm trying to fall asleep,off_topic
+i'm falling asleep,off_topic
+i sleep,off_topic
+i'm sleeping,off_topic
+i test you,off_topic
+i'm trying to test you,off_topic
+i'm testing you,off_topic
+can i test you?,off_topic
+i want to test you,off_topic
+i just'm trying to test it on you,off_topic
+lets try it out,off_topic
+testing the chatbot,off_topic
+testing a chatbot,off_topic
+testing chatbots,off_topic
+i'm exhausted,off_topic
+i'm depleted,off_topic
+i'm drained,off_topic
+i'm too busy,off_topic
+i've been so overworked,off_topic
+i'm overworked,off_topic
+i've overworked,off_topic
+i'm tired,off_topic
+i am tired,off_topic
+i get tired,off_topic
+i become weary,off_topic
+i get weary,off_topic
+i grow weary,off_topic
+i'm wiped out,off_topic
+i'm getting tired,off_topic
+i feel tired,off_topic
+i'm waiting,off_topic
+we wait,off_topic
+we're waiting,off_topic
+i'll wait,off_topic
+can't wait,off_topic
+i can't wait,off_topic
+i can't wait anymore,off_topic
+how long do i wait?,off_topic
+how long do i have to wait?,off_topic
+i'll miss you,off_topic
+can i see you again?,off_topic
+i just want to talk,off_topic
+let's talk about something,off_topic
+let's do a conversation,off_topic
+let's have some discussions,off_topic
+can i speak?,off_topic
+can i start to speak?,off_topic
+can i start speaking?,off_topic
+can we speak?,off_topic
+can we talk?,off_topic
+let's talk about it,off_topic
+i'd like to talk to you,off_topic
+i want to talk to you,off_topic
+i have to talk to you,off_topic
+i need to talk to you,off_topic
+i'd like to talk with you,off_topic
+i want to talk with you,off_topic
+i want to speak to you,off_topic
+i want to speak with you,off_topic
+can we chat?,off_topic
+i'll come back with you in a minute,off_topic
+i'll get back to you,off_topic
+i'll be back with you in a minute,off_topic
+i'll come back to you in a minute,off_topic
+i promise i'll come back,off_topic
+i promise to come back,off_topic
+i'll be back in a couple of minutes,off_topic
+i'll be back in a few minutes,off_topic
